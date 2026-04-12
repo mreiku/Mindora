@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659375422936",
+    "project_id": "mindora-7d752",
+    "storage_bucket": "mindora-7d752.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659375422936:android:05dd09e88c9d05e07a86ad",
+        "android_client_info": {
+          "package_name": "com.example.mindora_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8AIlXxROVaD0MCuY9QCPgV37R-Y8b6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
